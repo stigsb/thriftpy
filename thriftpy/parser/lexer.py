@@ -122,6 +122,7 @@ keywords = (
     'void',
     'bool',
     'byte',
+    'i8',
     'i16',
     'i32',
     'i64',
